@@ -4,10 +4,5 @@ author: "Maite Michell Gómez Gómez"
 date: "10/1/2021"
 output: html_document
 ---
-https://github.com/jtleek/datasharing
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
