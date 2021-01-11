@@ -7,4 +7,4 @@ título : " Hola Mundo "
 autora : " Maite Michell Gómez Gómez "
 ---
 
-##  Este es un archivo de rebajas
+##  This is a markdown file
